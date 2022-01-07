@@ -1,5 +1,5 @@
 # :-D WELCOME 
-### TO MY PROFILE LOL 
+![alt text](https://github.com/STEVEopp/STEVEopp/blob/main/welcome.png)
 There is not much about me , i am just learning about web development
 
 
